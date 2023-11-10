@@ -1,1 +1,1 @@
-# 2311MC08_EC_Assignment on Informer Model
+Edge Computing Assignment 1 - Informer Model
